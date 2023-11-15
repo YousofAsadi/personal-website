@@ -10,7 +10,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: Poppins, "Open Sans", sans-serif;
   color: #272829;
 }
 
@@ -1101,6 +1101,6 @@ section {
   #footer {
     position: static;
     width: auto;
-    padding-right: 20px 15px;
+    padding-right: 20px;
   }
 }
